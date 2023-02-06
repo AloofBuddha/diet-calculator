@@ -1,0 +1,26 @@
+[
+  {
+    "date": "02/05/23",
+    "goal": { "calories": 1554, "protien": 149, "fat": 52, "carbs": 133 },
+    "meals": {
+      "breakfast": { "calories": 281, "protien": 26, "fat": 6, "carbs": 31 },
+      "lunch": { "calories": 744, "protien": 60, "fat": 28, "carbs": 60 },
+      "dinner": { "calories": 610, "protien": 27, "fat": 13, "carbs": 82 },
+      "snack": { "calories": 100, "protien": 13, "fat": 1, "carbs": 10 }
+    },
+    "result": { "calories": 1735, "protien": 126, "fat": 48, "carbs": 183 },
+    "offBy": { "calories": 181, "protien": -23, "fat": -4, "carbs": 50 }
+  },
+  {
+    "date": "02/06/23",
+    "goal": { "calories": 1554, "protien": 149, "fat": 52, "carbs": 133 },
+    "meals": {
+      "breakfast": { "calories": 242, "protien": 24, "fat": 11, "carbs": 31 },
+      "lunch": { "calories": 0, "protien": 0, "fat": 0, "carbs": 0 },
+      "dinner": { "calories": 0, "protien": 0, "fat": 0, "carbs": 0 },
+      "snack": { "calories": 0, "protien": 0, "fat": 0, "carbs": 0 }
+    },
+    "result": { "calories": 0, "protien": 0, "fat": 0, "carbs": 0 },
+    "offBy": { "calories": 0, "protien": 0, "fat": 0, "carbs": 0 }
+  }
+]

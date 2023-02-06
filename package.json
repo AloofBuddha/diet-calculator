@@ -1,0 +1,12 @@
+{
+  "name": "diet-calculator",
+  "version": "1.0.0",
+  "description": "Little calculator to help me track diet stuff",
+  "main": "calculator.ts",
+  "scripts": {
+    "start": "ts-node calculator.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
